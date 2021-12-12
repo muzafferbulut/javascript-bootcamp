@@ -1,9 +1,13 @@
 export default class User {
-    constructor(id, firstName, lastName, city) { // constructor kelime anlamı oluşturucu demek
+    constructor(id, firstName, lastName, city, age) { // constructor kelime anlamı oluşturucu demek
         this.id = id
         this.firstName = firstName
         this.lastName = lastName
         this.city = city
-        console.log("user oluştu.")
+        this.age = age
     }
 }
+/**
+ * User sınıfı bizim için temel sınıftır. Biz sınıfları yazıılımda sürdürülebilirliği sağlamak için kullanıyoruz.
+ *  
+*/

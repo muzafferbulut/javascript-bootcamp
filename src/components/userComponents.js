@@ -29,3 +29,9 @@ console.log(customer.lastName) // yazdığımız özelliği eklediğini gördük
  * Yani js kullanırken sonradan bir değer eklemek gerektiğinde bu şekilde
  * ekleme yapabiliriz.
  */
+
+console.log("-------------")
+userService.load() // kullanıcılar listelendi.  
+console.log(userService.customers) // müşteriler yazdırıldı
+console.log(userService.employees) // çalışanlar yazdırıldı
+console.log(userService.errors) // bu yapıyı gerçek hayat uygulamalarında validasyon için kullanıyoruz.

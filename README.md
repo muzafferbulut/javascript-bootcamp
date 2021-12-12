@@ -11,3 +11,7 @@
 #### HAFTA 3:
 
 * Kampın 3. gününde javascript ile nesne tabanlı programlamaya güzel bir giriş yapıldı. Map, filter ve reduce fonksiyonlarının nasıl ve niçin kullanıldığına dair çalışmalar yapıldı. Ders dışı araştırmalarla konular desteklendi.
+
+#### HAFTA 4:
+
+* API'ler aracılığıyla gelen verilerin sisteme nasıl entegre edileceğine dair simulasyon çalışmaları yapıldı. Bu işlemler esnasında javascript dil özelliklerinden faydalanarak hata yönetiminin temellerine ilişkin çalışmalar yapıldı. Ödev olarak derste yapılan spagetti kodun refactor işlemi yapıldı.
